@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|d:\\programming\\c#\\raytracing\\raytracingwf\\raytracingwf\\shaders\\raytracing.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|solutionrelative:shaders\\raytracing.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|d:\\programming\\c#\\raytracing\\raytracingwf\\raytracingwf\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|solutionrelative:view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|d:\\programming\\c#\\raytracing\\raytracingwf\\raytracingwf\\raytracingwf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|solutionrelative:raytracingwf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|d:\\programming\\c#\\raytracing\\raytracingwf\\raytracingwf\\shaders\\raytracing.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|solutionrelative:shaders\\raytracing.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|d:\\programming\\c#\\raytracing\\raytracingwf\\raytracingwf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0095483D-223F-48D5-992C-AF961195EF0E}|RayTracingWF.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RayTracingWF",
+              "DocumentMoniker": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\RayTracingWF.csproj",
+              "RelativeDocumentMoniker": "RayTracingWF.csproj",
+              "ToolTip": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\RayTracingWF.csproj",
+              "RelativeToolTip": "RayTracingWF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T20:35:30.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "raytracing.frag",
+              "DocumentMoniker": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\Shaders\\raytracing.frag",
+              "RelativeDocumentMoniker": "Shaders\\raytracing.frag",
+              "ToolTip": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\Shaders\\raytracing.frag",
+              "RelativeToolTip": "Shaders\\raytracing.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-03T19:10:29.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:26:54.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "raytracing.vert",
+              "DocumentMoniker": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\Shaders\\raytracing.vert",
+              "RelativeDocumentMoniker": "Shaders\\raytracing.vert",
+              "ToolTip": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\Shaders\\raytracing.vert",
+              "RelativeToolTip": "Shaders\\raytracing.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-30T20:47:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View.cs",
+              "DocumentMoniker": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\View.cs",
+              "RelativeDocumentMoniker": "View.cs",
+              "ToolTip": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\View.cs",
+              "RelativeToolTip": "View.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAWwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:27:38.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\RayTracingWF\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:25:10.905Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
