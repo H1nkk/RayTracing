@@ -53,11 +53,11 @@
           "dependencies": {
             "OpenTK": {
               "target": "Package",
-              "version": "[4.9.4, )"
+              "version": "[3.3.3, )"
             },
             "OpenTK.GLControl": {
               "target": "Package",
-              "version": "[4.0.2, )"
+              "version": "[3.3.3, )"
             }
           },
           "imports": [

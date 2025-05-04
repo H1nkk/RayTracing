@@ -33,7 +33,6 @@ namespace RayTracingWF
             GL.DrawArrays(PrimitiveType.Quads, 0, 4);
             GL.DisableVertexAttribArray(view.attribute_vpos);
 
-            glControl1.SwapBuffers();
             GL.UseProgram(0);
         }
 

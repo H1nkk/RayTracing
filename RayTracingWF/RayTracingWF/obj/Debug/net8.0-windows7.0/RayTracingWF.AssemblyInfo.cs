@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RayTracingWF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82902ed0905f9799f978ce54c4865774470148aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("RayTracingWF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RayTracingWF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
