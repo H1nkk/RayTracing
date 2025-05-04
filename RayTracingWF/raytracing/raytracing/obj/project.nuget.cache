@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4AVDMVtEuTI=",
+  "dgSpecHash": "SWgYv9jfCmk=",
   "success": true,
-  "projectFilePath": "D:\\CG_raytracing\\raytracing\\raytracing\\RayTracingWF.csproj",
+  "projectFilePath": "D:\\Programming\\c#\\RayTracing\\RayTracingWF\\raytracing\\raytracing\\RayTracingWF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\the_h\\.nuget\\packages\\opentk\\3.3.3\\opentk.3.3.3.nupkg.sha512",
     "C:\\Users\\the_h\\.nuget\\packages\\opentk.glcontrol\\3.3.3\\opentk.glcontrol.3.3.3.nupkg.sha512"
